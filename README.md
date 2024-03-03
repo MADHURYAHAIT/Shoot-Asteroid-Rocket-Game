@@ -6,3 +6,8 @@ You just need to download and install the latest version of LOVE 2D and you are 
 Here's a preview of how the game looks:
 
 <image src = "https://github.com/MADHURYAHAIT/Shoot-Asteroid-Rocket-Game/blob/31cae7ce16a732fca3bbf881287125e7091c401d/game.png">
+
+
+Clone the repo,
+Download Love 2D compiler.
+Drag and drop the project folder on the app
